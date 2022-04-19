@@ -1,6 +1,6 @@
 ### Olá, Meu Nome é Luis Gustavo👋
 <br>
-<h3>Trabalho atualmente como assistende T.I, estudando todos os dias para alcançar meu objetivo que é me tornar um Desenvolvedor FullStack. </h3>
+<h3>Atuando com Desenvolvimento Back End com a linguagem Golang, em paralelo com a equipe de T.I prestando auxilio e monitorando sistemas web e serviços da empresa. Em estudo de outras linguagens para expandir minha base de conhecimento, desejando atuar não só no back-end mais também como Fullstack .</h3>
 
 <br>
 <hr>
