@@ -1,12 +1,12 @@
 ### Olá, Meu Nome é Luis Gustavo👋
 <br>
-<h3>No momento estou atuando com Desenvolvimento Back End com a linguagem Golang, em paralelo com a equipe de T.I prestando auxilio e monitorando sistemas web e serviços da empresa. Em estudo de outras linguagens para expandir minha base de conhecimento, desejando um dia atuar não só no back-end mais também como Fullstack.</h3>
+<h3>No momento estou atuando com Desenvolvimento Back End com a linguagem Golang. Em estudo de outras linguagens para expandir minha base de conhecimento, desejando um dia atuar não só no back-end mais também como Fullstack.</h3>
 
 <br>
 <hr>
 <br>
-- 💻 Atualmente trabalhando como Assistente de T.I na Brisanet Telecomunicações<br>
-- 🌱 Sempre estudando sobre Typescript, Javascript, NodeJS, React, VueJS e etc<br>
+- 💻 Atualmente trabalhando como Desenvolvedor Back-End<br>
+- 🌱 Sempre estudando sobre Golang, Typescript, Javascript, NodeJS, React<br>
 - 🚀 Sempre Buscando novas formas de aprender e trabalhar<br>
 - 🔭 Sempre tentando avançar para o proximo nível.
 <br>
