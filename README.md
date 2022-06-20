@@ -1,18 +1,18 @@
 ### Olá, Meu Nome é Luis Gustavo👋
 <br>
-<h3>No momento estou atuando com Desenvolvimento Back End com a linguagem Golang. Em estudo de outras linguagens para expandir minha base de conhecimento, desejando um dia atuar não só no back-end mais também como Fullstack.</h3>
+<h3>Atualmente trabalho como Desenvolvedor Back-End com a linguagem Golang. Em estudo de outras linguagens para expandir minha base de conhecimento, desejando um dia atuar não só no back-end mais também como Fullstack.</h3>
 
 <br>
 <hr>
+<br>
+<strong>Trabalho e Estudos 👨‍💻</strong>
 <br>
 - 💻 Atualmente trabalhando como Desenvolvedor Back-End | Golang <br>
 - 🌱 Sempre estudando sobre Golang, Typescript, Javascript, NodeJS, Angular<br>
 - 🚀 Sempre Buscando novas formas de aprender e trabalhar<br>
 - 🔭 Sempre tentando avançar para o proximo nível.
 <br>
-
 <hr>
-
 <div>
   <strong> Skills 👨‍💻 </strong>
 <br />
@@ -28,7 +28,8 @@
  <br />
  <br />
 <hr>
-  <strong> Database ⚡</strong> 
+  <strong> Database ⚡</strong>
+  <br/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="PostGreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
