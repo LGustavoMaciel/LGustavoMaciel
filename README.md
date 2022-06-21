@@ -45,3 +45,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LGustavoMaciel&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+<hr>
+![snake gif](https://github.com/joaovictorcfr/joaovictorcfr/blob/output/github-contribution-grid-snake.svg)
