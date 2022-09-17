@@ -1,6 +1,6 @@
 ### Olá, Meu Nome é Luis Gustavo👋
 <br>
-<h3>Atualmente trabalho como Desenvolvedor Back-End com a linguagem Golang. Em estudo de outras linguagens para expandir minha base de conhecimento, desejando um dia atuar não só no back-end mais também como Fullstack.</h3>
+<h3>Atualmente trabalho como Desenvolvedor utilizando Dart e Flutter. Em estudo de outras linguagens para expandir minha base de conhecimento, desejando um dia atuar não só no back-end mais também como Fullstack.</h3>
 
 <br>
 <hr>
