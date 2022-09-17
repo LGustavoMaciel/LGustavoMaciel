@@ -7,8 +7,8 @@
 <br>
 <strong>Trabalho e Estudos 👨‍💻</strong>
 <br>
-- 💻 Atualmente trabalhando como Desenvolvedor Back-End | Golang <br>
-- 🌱 Sempre estudando sobre Golang, Typescript, Javascript, NodeJS e Flutter<br>
+- 💻 Atualmente trabalhando como Desenvolvedor Web utilizando Flutter e Dart<br>
+- 🌱 Estudando sobre Golang, Typescript, Javascript, NodeJS, Flutter e etc...<br>
 - 🚀 Sempre Buscando novas formas de aprender e trabalhar<br>
 - 🔭 Sempre tentando avançar para o proximo nível.
 <br>
