@@ -8,7 +8,7 @@
 <strong>Trabalho e Estudos 👨‍💻</strong>
 <br>
 - 💻 Atualmente trabalhando como Desenvolvedor Back-End | Golang <br>
-- 🌱 Sempre estudando sobre Golang, Typescript, Javascript, NodeJS, Angular<br>
+- 🌱 Sempre estudando sobre Golang, Typescript, Javascript, NodeJS e Flutter<br>
 - 🚀 Sempre Buscando novas formas de aprender e trabalhar<br>
 - 🔭 Sempre tentando avançar para o proximo nível.
 <br>
@@ -32,7 +32,6 @@
   <br/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="PostGreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <br/>
   <br/>
 <hr>
