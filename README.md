@@ -16,7 +16,7 @@
 <div>
   <strong> Skills 👨‍💻 </strong>
 <br />
-  [![My Skills](https://skillicons.dev/icons?i=golang,flutter=3)](https://skillicons.dev)
+  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
  <br />
  <br />
 <hr>
