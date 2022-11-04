@@ -1,7 +1,8 @@
-<h1 align="center">Olá 👋, Eu sou Luis Gustavo</h1>
+<h1 align="center">Olá 👋, eu sou Luis Gustavo</h1>
 <h3 align="center">Desenvolvedor Web and Mobile Flutter | Dart</h3>
 
-- 💬 Ask me about **Atualmente trabalho como Desenvolvedor utilizando Dart e Flutter. Em estudo de outras linguagens para expandir minha base de conhecimento, desejando um dia atuar não só no back-end mais também como Fullstack.**
+- 💬 Ask me about:
+  **Atualmente trabalho como Desenvolvedor utilizando Dart e Flutter. Em estudo de outras linguagens para expandir minha base de conhecimento, desejando um dia atuar não só no back-end mais também como Fullstack.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
