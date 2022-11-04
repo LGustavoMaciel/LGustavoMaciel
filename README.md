@@ -1,17 +1,16 @@
 ### Olá, Meu Nome é Luis Gustavo👋
-<br>
+
 <h3>Atualmente trabalho como Desenvolvedor utilizando Dart e Flutter. Em estudo de outras linguagens para expandir minha base de conhecimento, desejando um dia atuar não só no back-end mais também como Fullstack.</h3>
 
-<br>
 <hr>
-<br>
+
 <strong>Trabalho e Estudos 👨‍💻</strong>
 <br>
 - 💻 Atualmente trabalhando como Desenvolvedor Web utilizando Flutter e Dart<br>
 - 🌱 Estudando sobre Golang, Typescript, Javascript, NodeJS, Flutter e etc...<br>
 - 🚀 Sempre Buscando novas formas de aprender e trabalhar<br>
 - 🔭 Sempre tentando avançar para o proximo nível.
-<br>
+
 <hr>
 <div>
   <strong> Skills 👨‍💻 </strong>
