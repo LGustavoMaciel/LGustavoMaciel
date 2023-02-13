@@ -7,7 +7,7 @@
 <strong>Trabalho e Estudos 👨‍💻</strong>
 <br>
 - 💻 Atualmente trabalhando como Desenvolvedor Web utilizando Flutter e Dart<br>
-- 🌱 Estudando sobre Flutter, Golang, TypeScript e etc...<br>
+- 🌱 Estudando sobre Flutter, TypeScript e etc...<br>
 - 🚀 Sempre Buscando novas formas de aprender e trabalhar<br>
 - 🔭 Sempre tentando avançar para o proximo nível.
 
