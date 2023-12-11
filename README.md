@@ -7,8 +7,7 @@
 <strong>Trabalho e Estudos 👨‍💻</strong>
 <br>
 - 💻 Atualmente trabalhando como Desenvolvedor Back-End | Golang<br>
-- 🚀 Sempre Buscando novas formas de aprender e trabalhar<br>
-- 🔭 Sempre tentando avançar para o proximo nível.
+- 🚀 Buscando trilhar uma carreira como Desenvolvedor FullStack<br>
 
 <hr>
 <div>
