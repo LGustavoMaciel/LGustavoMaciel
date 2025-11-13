@@ -3,7 +3,7 @@
 <strong>Trabalho e Estudos 👨‍💻</strong>
 <br>
 - 💻 Atualmente trabalhando como Jira Specialist<br>
-- 🚀 Trilhando uma carreira na área de tecnologia, atuando como desenvolvedor e como especialista em ferramentas Atlassian<br>
+- 🚀 Trilhando uma carreira na área de tecnologia, atuando como desenvolvedor e especialista em ferramentas Atlassian<br>
 
 <hr>
 <div>
