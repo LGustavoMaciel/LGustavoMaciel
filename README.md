@@ -9,21 +9,32 @@
 <div>
 <strong>Main skills 👨‍💻</strong>
 <p align="left">
-Administração Atlassian Cloud
-Jira Service Management (JSM)
-Jira Software
-Confluence
-Jira Work Management
+<ul>
+  <li><strong>Administração Atlassian Cloud</strong>
+    <ul>
+      <li>Jira Service Management (JSM)</li>
+      <li>Jira Software</li>
+      <li>Confluence</li>
+      <li>Jira Work Management</li>
+    </ul>
+  </li>
 
-Automação e Workflows Atlassian
-Criação e otimização de fluxos de trabalho ágeis (Scrum, ITSM, ITIL)
-Desenvolvimento de automações globais e regras inteligentes
+  <li><strong>Automação e Workflows Atlassian</strong>
+    <ul>
+      <li>Criação e otimização de fluxos de trabalho ágeis (Scrum, ITSM, ITIL)</li>
+      <li>Desenvolvimento de automações globais e regras inteligentes</li>
+    </ul>
+  </li>
 
-Integrações e Desenvolvimento
-Desenvolvimento de integrações entre Atlassian Cloud e sistemas externos
-Linguagens: Go (Golang) e Python 3
-Experiência com APIs REST e manipulação de JSONs extensos
-
+  <li><strong>Integrações e Desenvolvimento</strong>
+    <ul>
+      <li>Desenvolvimento de integrações entre Atlassian Cloud e sistemas externos</li>
+      <li>Linguagens: Go (Golang) e Python 3</li>
+      <li>Experiência com APIs REST e manipulação de JSONs extensos</li>
+    </ul>
+  </li>
+</ul>
+<hr>
 <p align="justify">
   <strong>Development Skills 👨‍💻</strong>
 <p align="left"> 
