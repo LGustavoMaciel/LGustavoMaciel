@@ -3,11 +3,29 @@
 <strong>Trabalho e Estudos 👨‍💻</strong>
 <br>
 - 💻 Atualmente trabalhando como Jira Specialist<br>
-- 🚀 Buscando trilhar uma carreira como Desenvolvedor FullStack<br>
+- 🚀 Trilhando uma carreira na área de tecnologia, atuando como desenvolvedor e como especialista em ferramentas Atlassian<br>
 
 <hr>
 <div>
-  <strong> Skills 👨‍💻 </strong>
+<strong>Main skills 👨‍💻</strong>
+<p align="left">
+Administração Atlassian Cloud
+Jira Service Management (JSM)
+Jira Software
+Confluence
+Jira Work Management
+
+Automação e Workflows Atlassian
+Criação e otimização de fluxos de trabalho ágeis (Scrum, ITSM, ITIL)
+Desenvolvimento de automações globais e regras inteligentes
+
+Integrações e Desenvolvimento
+Desenvolvimento de integrações entre Atlassian Cloud e sistemas externos
+Linguagens: Go (Golang) e Python 3
+Experiência com APIs REST e manipulação de JSONs extensos
+
+<p align="justify">
+  <strong>Development Skills 👨‍💻</strong>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
