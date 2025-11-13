@@ -1,12 +1,8 @@
 ### Olá, Meu Nome é Luis Gustavo👋
 
-<h3>Atualmente trabalho como Desenvolvedor Back-End utilizando a técnologia Golang</h3>
-
-<hr>
-
 <strong>Trabalho e Estudos 👨‍💻</strong>
 <br>
-- 💻 Atualmente trabalhando como Desenvolvedor Back-End | Golang<br>
+- 💻 Atualmente trabalhando como Jira Specialist<br>
 - 🚀 Buscando trilhar uma carreira como Desenvolvedor FullStack<br>
 
 <hr>
