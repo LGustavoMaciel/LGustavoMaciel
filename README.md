@@ -30,7 +30,6 @@
     <ul>
       <li>Desenvolvimento de integrações entre Atlassian Cloud e sistemas externos</li>
       <li>Linguagens: Go (Golang) e Python 3</li>
-      <li>Experiência com APIs REST e manipulação de JSONs extensos</li>
     </ul>
   </li>
 </ul>
